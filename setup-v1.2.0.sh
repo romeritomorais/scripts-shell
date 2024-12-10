@@ -27,6 +27,7 @@ export USER=$HOME
 Menu() {
 echo "
 Which version of Apache Spark do you want to install?
+
 Opções:
      0)  ${SPARK_VERSION}-3.3.1-${HADDOP_VERSION}3.tgz
      1)  ${SPARK_VERSION}-3.3.0-${HADDOP_VERSION}3.tgz
