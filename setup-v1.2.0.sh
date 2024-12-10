@@ -56,7 +56,6 @@ elif [ $OPCAO -eq 4 ]; then
     export HADOOP="${HADDOP_VERSION}3.2"
 fi
 
-
 case $OPCAO in
     5) exit ;;
   esac
