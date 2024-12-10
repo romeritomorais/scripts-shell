@@ -73,6 +73,7 @@ SCALA_ICON="https://cdn.iconscout.com/icon/free/png-256/scala-226059.png"
 SPARK_BIN="https://archive.apache.org/dist/spark/${SPARK}/${SPARK}-${HADOOP}.tgz"
 
 
+
 echo """
 ************************************************************************************************
 installing dependencies ...
